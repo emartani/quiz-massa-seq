@@ -175,7 +175,7 @@ const questions = [
         level: 'easy'
     },
     {
-        question: "O Lucas tem uma sacola com 2 kg de laranjas. Qual é o triplo dessa massa?",
+        question: "O papai tem uma sacola com 2 kg de laranjas. Qual é o triplo dessa massa?",
         answers: [
             { text: "4 kg", correct: false },
             { text: "5 kg", correct: false },
@@ -208,7 +208,7 @@ const questions = [
         level: 'easy'
     },
     {
-        question: "A Maria tem um pacote de 5 kg de arroz. Se ela comprasse o dobro, quantos quilos seriam?",
+        question: "A mamãe tem um pacote de 5 kg de arroz. Se ela comprasse o dobro, quantos quilos seriam?",
         answers: [
             { text: "7 kg", correct: false },
             { text: "10 kg", correct: true },
@@ -311,7 +311,7 @@ const questions = [
         level: 'hard'
     },
     {
-        question: "A Júlia comprou uma dúzia de sabonetes, totalizando 1200 g. Se ela usar 100 g, qual a massa restante?",
+        question: "A vovó comprou uma dúzia de sabonetes, totalizando 1200 g. Se ela usar 100 g, qual a massa restante?",
         answers: [
             { text: "1000 g", correct: false },
             { text: "1100 g", correct: true },
